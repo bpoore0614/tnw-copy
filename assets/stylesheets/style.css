@@ -375,6 +375,11 @@ strong{
         grid-column: 1 / -1;
     }
 
+    .top-links a, #nav-bar a, footer li{
+        font-size: .6em;
+        padding: .8em;
+    }
+
     .topic img{ 
         width: 10%;
     }
