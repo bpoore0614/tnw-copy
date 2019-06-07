@@ -78,6 +78,7 @@ header a{
 .hero{
     background-image: linear-gradient(150deg, red, black);
     flex-direction: column;
+    height: inherit;
     grid-column: 1 / span 3;
     grid-row: 1 / span 2;
 }
