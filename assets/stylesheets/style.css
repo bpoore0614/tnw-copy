@@ -389,7 +389,6 @@ strong{
     }
 
     .main-articles >* {
-        height: 25vh;
         flex: 1 1 100%;
     }
 
