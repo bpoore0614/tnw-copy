@@ -96,6 +96,7 @@ header a{
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: inherit;
+    padding: 40px 0;
 }
 
 .article-grid > *{
@@ -125,6 +126,7 @@ header a{
     display: grid;
     grid-column: 4 / span 2;
     grid-row: 1 / span 1;
+    padding: 40px 15px;
 }
 
 .article{
@@ -136,6 +138,7 @@ header a{
     background-color: darkgreen;
     grid-column: 4 / span 2;
     grid-row: 2 / span 1;
+    padding: 40px 15px;
 }
 
 .standard-text{
