@@ -94,7 +94,6 @@ header a{
 .article-grid{
     display: grid;
     grid-gap: 20px;
-    height: inherit;
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: inherit;
 }
